@@ -1,5 +1,5 @@
 void main(List<String> args) {
-  int number = 42;
+  int number = 40;
   double number1 = 40.2;
   number1.toInt();
   number.toDouble();
