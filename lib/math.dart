@@ -1,7 +1,7 @@
 void main(List<String> args) {
   Math mat = Math();
   //mat.num(45, 23);
-  double result = mat.different(70, 11);
+  double result = mat.different(70, 8);
   print(result);
 }
 
