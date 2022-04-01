@@ -1,7 +1,7 @@
 void main(List<String> args) {
   var bmv = Cars(); //sınıf çağırma şrklimiz
   Cars car = Cars(); //bu da başka bir çağırma şekli
-  car.color = "pembe";
+  car.color = "sarı";
   car.speed = 200;
   car.work = true;
   print(car.color);
