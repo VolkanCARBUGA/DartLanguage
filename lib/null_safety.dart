@@ -3,7 +3,7 @@ import 'dart:io';
 void main() {
   String? message =
       null; //null safety kullanımı bu şekilde ? sembolü ile veri türünün sağına yazılır.
-  message = "hello";
+  message = "selam";
   print("sonuç ${message.toUpperCase()}");
   print("bir isim gir");
   String isim = stdin.readLineSync()!;
