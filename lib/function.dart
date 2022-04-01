@@ -6,7 +6,7 @@ void main(List<String> args) {
 }
 
 void hello() {
-  String result = "merhaba ahmet";
+  String result = "merhaba ali";
   print(result);
 }
 
