@@ -1,6 +1,6 @@
 void main(List<String> args) {
   var homeWork = Work();
-  double result = homeWork.convert(30);
+  double result = homeWork.convert(20);
   print(result);
 }
 
