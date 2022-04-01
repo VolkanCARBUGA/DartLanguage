@@ -5,7 +5,7 @@ void main(List<String> args) {
   var random = Random();
   int randomSayi = random.nextInt(max); //random kullanımı
   double number = 6.50;
-  var result = number.ceil(); //bir üst sayıya yuvarlar
+  var result = number.ceil(); //bir üst sayıya yuvarlar.
   var result2 = number.floor(); //bir alt sayıya yuvarlar
   print(result);
   print(result2);
