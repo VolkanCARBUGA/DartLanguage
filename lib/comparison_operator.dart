@@ -3,5 +3,5 @@ void main(List<String> args) {
 
   print(number > number2);
   print(number4 == number);
-  print(number2 != number3);
+  print(number2 != number);
 }
