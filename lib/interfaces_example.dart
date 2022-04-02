@@ -38,7 +38,7 @@ class Apple implements Eatable, Squezable {
 
   @override
   void squez() {
-    print("elma suyu yap");
+    print("elma suyu ");
   }
 }
 
